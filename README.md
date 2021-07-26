@@ -2,8 +2,6 @@
 <h3 align="center">DevOps & Cloud professional</h3>
 
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=singhrohit487" alt="singhrohit487" /></a> </p>
-
 - 👨‍💻 All of my projects are available at [https://github.com/singhrohit487](https://github.com/singhrohit487)
 
 - 💬 Ask me about **AWS, Kubernetes, Docker, Terraform, Ansible, Jenkins, Chef, Linux**
