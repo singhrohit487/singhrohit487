@@ -6,7 +6,7 @@
 
 - 💬 Ask me about **AWS, Kubernetes, Docker, Terraform, Ansible, Jenkins, Chef, Linux**
 
-- 📫 How to reach me **singhrohit487@gmail.com**
+- 📫 Reach me out at **singhrohit487@gmail.com**
 
 - Connect me via LinkedIn **https://www.linkedin.com/in/rohit-singh-64270138/**
 
