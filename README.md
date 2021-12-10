@@ -4,7 +4,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/singhrohit487](https://github.com/singhrohit487)
 
-- 💬 Ask me about **AWS, Kubernetes, Docker, Terraform, Ansible, Jenkins, Chef, Linux**
+- 💬 Ask me about **AWS, Kubernetes, Docker, Terraform, Serverless, Ansible, Jenkins, Chef, Linux**
 
 - 📫 Reach me out at **singhrohit487@gmail.com**
 
